@@ -59,8 +59,3 @@ This is a simple desktop application for converting PowerPoint presentations (PP
 5. Monitor the progress using the visual progress bar.
 
 6. Once the conversion is complete, the converted PDF files will be available. If you chose to compress to a zip file, the zip file will also be created.
-
-## Acknowledgments
-
-- This application is built using Python and PyQt5.
-- Special thanks to the comtypes library for PowerPoint integration.
